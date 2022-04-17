@@ -5,7 +5,7 @@
     }
     
     .logo a {
-        padding-left: 20px;
+        padding-left: 0;
     }
 
     label #btn {
@@ -129,6 +129,10 @@
 @media all and (max-width: 670px) {
     .wrapper-menu {
         width: 0;
+    }
+    
+    .logo a {
+        padding-left: 0;
     }
     
     .card {
