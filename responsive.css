@@ -5,7 +5,8 @@
     }
     
     .logo a {
-        padding-left: 0;
+        margin-left: 10px;
+        padding-left: 10px;
     }
 
     label #btn {
@@ -132,7 +133,8 @@
     }
     
     .logo a {
-        padding-left: 0;
+        margin-left: 10px;
+        padding-left: 10px;
     }
     
     .card {
